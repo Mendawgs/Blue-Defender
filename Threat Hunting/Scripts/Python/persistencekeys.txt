@@ -1,0 +1,5 @@
+HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\run
+HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\runonce
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
